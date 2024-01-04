@@ -38,6 +38,6 @@ python applying_best_practices.py
 
 ## Author
 
-Nicholas Gulrajani J
+Nicholas Gulrajani
 
 Let me know if you would like any sections expanded or have additional questions!
